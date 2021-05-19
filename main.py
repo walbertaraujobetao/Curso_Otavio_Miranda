@@ -1,1 +1,1 @@
-print('Início do Projeto!!!!!!')
+print('Tudo ok!')
